@@ -12,7 +12,7 @@ Create a tiny RESTful web service with the following business requirements:
 
 ### Technical requirements
 
-You have total control over framework and tools, as long as application is written in Java. Feel free to write tests in any JVM language.
+You have total control over framework and tools (except Spring, sorry), as long as application is written in Java. Feel free to write tests in any JVM language.
 
 ### What gets evaluated
 
